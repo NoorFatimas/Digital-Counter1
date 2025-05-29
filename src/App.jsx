@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ChangeButton from "./components/ChangeButton";
-import Counter from "./components/counter";
+import Counter from "./components/Counter";
 import Reset from "./components/Reset";
 import Tittle from "./components/Tittle";
 
